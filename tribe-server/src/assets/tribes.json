@@ -1,0 +1,50 @@
+{
+  "Daba": {
+    "name": "Daba",
+    "description": "The Daba are at the forefront of innovation, discovering more efficient ways to grow and use their resources.",
+    "leaderPowers": ["Trader", "Crafty Builders"],
+    "villageCost": [2, 1, 3]
+  },
+  "Dananu": {
+    "name": "Dananu",
+    "description": "A skilled and organized people, the Dananu are adept at timing their efforts for maximum gain.",
+    "leaderPowers": ["Cunning", "Agriculture"],
+    "villageCost": [4, 1, 1]
+  },
+  "Indartsu": {
+    "name": "Indartsu",
+    "description": "Finding strength in numbers the Indartsu focus on expanding their tribe and thriving in this new land.",
+    "leaderPowers": ["Farming", "Exogamy"],
+    "villageCost": [1, 2, 3]
+  },
+  "Kaha": {
+    "name": "Kaha",
+    "description": "Working together with ease, the Kaha can accomplish great feats as they travel far and wide.",
+    "leaderPowers": ["Wayfarers", "Focused Effort"],
+    "villageCost": [3, 2, 1]
+  },
+  "KiaKia": {
+    "name": "KiaKia",
+    "description": "The KiaKia are able to use their tactical knowledge of the land to surprise and overwhelm their foes.",
+    "leaderPowers": ["Ambush", "Dreamtime"],
+    "villageCost": [1, 4, 1]
+  },
+  "Kiror": {
+    "name": "Kiror",
+    "description": "The Kiror are experts at taking the lay of the land, and can move their tribe around with deftness and skill.",
+    "leaderPowers": ["Pathfinder", "Evasion"],
+    "villageCost": [1, 3, 2]
+  },
+  "Mukaan": {
+    "name": "Mukaan",
+    "description": "The Mukaan are a sociable tribe and they are at their best (and worst) when sharing land with other tribes.",
+    "leaderPowers": ["Shared Bounty", "Intimidate"],
+    "villageCost": [3, 1, 2]
+  },
+  "Tunga": {
+    "name": "Tunga",
+    "description": "An independent and fearless people, the Tunga know how to make the best of any situation.",
+    "leaderPowers": ["Hidden Village", "Light in the Dark"],
+    "villageCost": [2, 3, 1]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "Abandoned Village": {
+    "name": "Abandoned Village",
+    "header": "Players may gain a Village",
+    "action": "In turn order, all Players have an opportunity to acquire a lower cost Village, if the following is met: <REQ>Build in a Controlled Hex</REQ> <REQ>Pay 1 of each Resource</REQ>",
+    "clear": "Discard Event after all Players act."
+  },
+  "Altar": {
+    "name": "Altar",
+    "header": "Pay 3 Food to acquire",
+    "action": "At the end of your turn, you may pay Resources and Tribe Members for VP. <VP>1VP: Tribe Member from any Hex and 4 of 1 Resource or 3 unique.</VP>",
+    "clear": "(Any Doubles!) Add Food to reduce cost. Discard if 3 Food."
+  },
+  "Chieftain": {
+    "name": "Chieftain",
+    "header": "Players bid to be Chief",
+    "action": "In turn order, Players may bid Resources or drop out. Players must bid higher than the previous bid.\nIf the final bid is 5+ Resources, that Player wins 2VP, otherwise 1VP.\nLosing bids are returned. Winning Player must distribute their bid amongst the other Players (as they choose).",
+    "clear": "Shuffle Chieftain card if no bids."
+  },
+  "Discovery": {
+    "name": "Discovery",
+    "header": "Place two of each type of Resource on this card",
+    "action": "Take one from this card for each MOVE into a Hex with only Opponents.",
+    "clear": "Discard card when empty."
+  },
+  "Drought": {
+    "name": "Drought",
+    "header": "Population limit 4",
+    "action": "The population limit of each Hex is now 4 Tribe Members.]nResolve at Conflict phase.",
+    "clear": "(Any Doubles!) Removes this card from play."
+  },
+  "Dugout Canoe": {
+    "name": "Dugout Canoe",
+    "header": "Pay 3 Wood to acquire",
+    "action": "You may travel through Lake Hexes for free! (zero movement to cross any number of Lakes).",
+    "clear": "(Any Doubles!) Add Wood to reduce cost. Discard if 3 Wood."
+  },
+  "Invaders": {
+    "name": "Invaders",
+    "header": "Add Invaders to Board",
+    "action": "Put 3 Invader Tokens on the least populated Hex (Active Player chooses if tied).]nThe Invaders prevent all GATHER Actions and Village building!\nDefeat the last Invader via Conflict to achieve 2VP.",
+    "clear": "(Any Doubles!) Add an Invader to Group (max 5)."
+  },
+  "Mammoth": {
+    "name": "Mammoth",
+    "header": "Place Mammoth on least populated Lake Hex (Active Player resolves ties)",
+    "action": "Spend 1 Die on this card and occupy Mammoth Hex with 4+ Tribe Members.",
+    "clear": "Hunt - Receive 3 Food and 1VP. Remove the Mammoth from the Board.\nTame - Pay 3 Food, gain 3 VP and control of the Mammoth. See Taming Rules"
+  },
+  "Mild Winter": {
+    "name": "Mild Winter",
+    "header": "Stack Food on this card (Equal to the number of Players)",
+    "action": "During Mild Winter, the GROW Action results in 2 additional Tribe Members.",
+    "clear": "Discard one of the Food per GROW. Discard card when empty."
+  },
+  "Plentiful Food": {
+    "name": "Plentiful Food",
+    "header": "Place 6 Food on this card",
+    "action": "If you GATHER from Lake Hexes, take 2 extra Resources from this card for EACH Hex you GATHER Food from.",
+    "clear": "Discard card when empty."
+  },
+  "Plentiful Stone": {
+    "name": "Plentiful Stone",
+    "header": "Place 6 Stone on this card",
+    "action": "If you GATHER from Mountain Hexes, take 2 extra Resources from this card for EACH Hex you GATHER Stone from.",
+    "clear": "Discard card when empty."
+  },
+  "Plentiful Wood": {
+    "name": "Plentiful Wood",
+    "header": "Place 6 Wood on this card",
+    "action": "If you GATHER from Forest Hexes, take 2 extra Resources from this card for EACH Hex you GATHER Wood from.",
+    "clear": "Discard card when empty."
+  },
+  "Sabertooth Tiger": {
+    "name": "Sabertooth Tiger",
+    "header": "Place Sabertooth Tiger on a Mountain Hex",
+    "action": "When placed, remove 1 Tribe Member from each Player in the affected Hex\nHunt - Spend 1 Die on this card and remove 1 Tribe member from Tiger Hex to defeat it and gain 1VP.",
+    "clear": "(Any Doubles!) Active Player moves Tiger to a new Mountain."
+  },
+  "Shared Knowledge": {
+    "name": "Shared Knowledge",
+    "header": "Share a Hex with Opponent(s)",
+    "action": "Pay any 1 Resource to this card during final phase of your turn to draw 1 Goal card. It may be completed this turn.",
+    "clear": "Discard when 3 Resources are paid."
+  },
+  "Volcano": {
+    "name": "Volcano",
+    "header": "(1st time only): Add Volcano Hex touching 2 other outer Hexes AND adjacent to your Tribe (if possible)",
+    "action": "Hexes near Volcano may produce Stone.\nDouble Suns - All Tribes safe! Each Tribe near Volcano gains 1 Stone.\nDouble Blanks - Tribes near Volcano lose 1 Member, gain 1 Stone.\nDouble Moons - Tribes near Volcano lose 2 Members, gain 1 Stone.",
+    "clear": "Shuffle the Volcano card into the deck."
+  },
+  "Walls": {
+    "name": "Walls",
+    "header": "Pay 3 Stone to acquire",
+    "action": "When defending in Conflict, your Villages may remove 1 Attacker before resolving the battle.",
+    "clear": "(Any Doubles!) Add Stone to reduce cost. Discard if 3 Stone."
+  }
+}
