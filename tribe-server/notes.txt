@@ -1,0 +1,17 @@
+
+Flow of play:
+    1. Score villages
+    2. Roll
+    3. Act on events
+    4. Pick 2 unique actions
+    5. Complete goals
+    6. Resolve conflicts
+
+Player actions:
+    roll - 2 die (blank, moon, or sun)
+    gather - how much? which occupied tiles?
+    move(x) - how many? where?
+    grow(x) - how much? which occupied tile?
+    lead(x) - how many?
+    build village - which occupied tile(s)?
+    complete goal - which goal? how many VP? does the goal stay as a development or is it consumed?

@@ -1,4 +1,4 @@
-const { randInt } = require('math-helpers');
+const { randInt } = require('./math-helpers');
 
 module.exports = {
 

@@ -26,7 +26,7 @@
   "Drought": {
     "name": "Drought",
     "header": "Population limit 4",
-    "action": "The population limit of each Hex is now 4 Tribe Members.]nResolve at Conflict phase.",
+    "action": "The population limit of each Hex is now 4 Tribe Members.\nResolve at Conflict phase.",
     "clear": "(Any Doubles!) Removes this card from play."
   },
   "Dugout Canoe": {
